@@ -7,7 +7,6 @@
 body {
   font-size: 1.2rem;
   font-size: "Work Sans", sans-serif;
-  min-height: 4000px;
 }
 
 .hero::before {
@@ -499,7 +498,7 @@ body {
   }
 
   .simply-countdown > .simply-section {
-    padding: 45px;
+    padding: 35px;
     margin: 3px;
   }
 
